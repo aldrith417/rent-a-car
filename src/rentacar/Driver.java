@@ -17,11 +17,13 @@ import java.io.FileReader;
 import java.io.IOException;
 
 // INCLUDE HERE THE LINK TO THE GIT REPOSITORY AS A COMMENT!!!!
+// https://github.com/aldrith417/rent-a-car
 
 
 // INCLUDE HERE THE FULL NAME AND STUDENT NUMBER OF BOTH TEAM MEMBERS 
 // AS A COMMENT!!!!
-
+// Name: Aldrith Arango
+// Student Number: 2021389
 
 
 /**
